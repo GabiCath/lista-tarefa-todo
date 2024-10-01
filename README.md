@@ -4,6 +4,7 @@ Lista de Tarefas (ToDo)
 Este é um projeto de lista de tarefas desenvolvido em React. Ele permite que os usuários adicionem, excluam, filtrem, pesquisem e ordenem suas tarefas em ordem crescente ou decrescente.
 
 Funcionalidades
+
 Adicionar Tarefas: Permite que o usuário adicione novas tarefas à lista.
 
 Excluir Tarefas: O usuário pode remover tarefas da lista.
