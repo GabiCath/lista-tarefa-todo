@@ -5,9 +5,13 @@ Este é um projeto de lista de tarefas desenvolvido em React. Ele permite que os
 
 Funcionalidades
 Adicionar Tarefas: Permite que o usuário adicione novas tarefas à lista.
+
 Excluir Tarefas: O usuário pode remover tarefas da lista.
+
 Filtrar Tarefas: Filtra as tarefas por palavras-chave.
+
 Pesquisar Tarefas: Busca por tarefas específicas usando a barra de pesquisa.
+
 Ordenação: Ordena as tarefas em ordem crescente ou decrescente.
 
 
